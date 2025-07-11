@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @murugaveldev
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ..
 
 
